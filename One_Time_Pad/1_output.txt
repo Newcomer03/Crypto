@@ -1,0 +1,8 @@
+
+#====== OTP Cipher ======#
+Text: amazing
+Key:  siadcxo
+Encrypted: suackku
+Decrypted: amazing
+#----------------------------#
+

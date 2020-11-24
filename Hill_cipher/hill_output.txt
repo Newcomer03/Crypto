@@ -1,0 +1,9 @@
+
+#====== Hill Cipher ======#
+Text: WE LIVE IN AN INSECURE WORLD
+Key:  [[ 3 14]
+ [ 9  5]]
+Encrypted: WIXHTDYBANYBKOUUHJQAVG
+Decrypted: WE LIVE IN AN INSECURE WORLD
+#----------------------------#
+

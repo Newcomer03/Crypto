@@ -1,0 +1,8 @@
+
+#====== Keyed Transposition Cipher ======#
+Text: ASHWIN SEKHARI
+Key:  [3, 1, 4, 5, 2]
+Encrypted: HSRANHWEIIK_S A
+Decrypted: ASHWIN SEKHARI
+#------------------------------------------#
+

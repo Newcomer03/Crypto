@@ -1,0 +1,8 @@
+
+#====== Vigenere Cipher ======#
+Text: Attack from the adversary
+Key: Ashwin
+Encrypted: Alawkx xyku tzl iqvwyoiey
+Decrypted: Attack from the adversary
+#----------------------------#
+

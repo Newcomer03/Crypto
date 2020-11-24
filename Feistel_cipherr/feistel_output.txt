@@ -1,0 +1,7 @@
+
+#====== Feistel Cipher ======#
+Text: Ashwin Sekhari
+Encrypted:  -?PB'U''+,+|
+Decrypted: Ashwin Sekhari
+#----------------------------#
+

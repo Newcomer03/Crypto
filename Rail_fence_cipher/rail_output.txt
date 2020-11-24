@@ -1,0 +1,7 @@
+
+#====== Rail Fence Cipher ======#
+Text: Ashwin Sekhari
+Encrypted: ASsehkwhianr i
+Decrypted: Ashwin Sekhari
+#----------------------------#
+

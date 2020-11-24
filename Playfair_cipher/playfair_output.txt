@@ -1,0 +1,12 @@
+
+#====== Playfair Cipher ======#
+Required grid :
+CRYPT
+OGAHB
+DEFIK
+LMNQS
+UVWXZ
+Key:  cryptography
+Ciphertext: BN AX FQ FW EI GY KE HO OF 
+Decrypted text:  Ashwin and faridabad 
+#----------------------------#
